@@ -1,0 +1,31 @@
+{
+  "skill_extraction": {
+    "model": "rule_based_skill_extractor + technical filters",
+    "precision": 0.9047619047619048,
+    "recall": 1.0,
+    "f1_score": 0.9500000000000001,
+    "avg_inference_time_ms": 0.16689300537109375
+  },
+  "embeddings": {
+    "model": "BAAI/bge-large-en-v1.5",
+    "embedding_dimension": 1024,
+    "avg_inference_time_ms": 1775.4913171132405,
+    "similarity_scores": [
+      0.6978057622909546,
+      0.5674558281898499,
+      0.6070099472999573
+    ],
+    "docs": [
+      "Python backend engineer with Django and REST APIs",
+      "Data scientist working on machine learning and deep learning",
+      "Frontend engineer with React and TypeScript"
+    ],
+    "query": "Python developer"
+  },
+  "llm_roadmap": {
+    "model": "mistralai/Mistral-7B-Instruct-v0.3",
+    "inference_time_seconds": 3.0994415283203125e-05,
+    "output_word_count": 643,
+    "contains_expected_sections": false
+  }
+}
