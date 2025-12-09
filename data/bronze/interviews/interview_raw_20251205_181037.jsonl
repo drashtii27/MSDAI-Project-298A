@@ -1,0 +1,281 @@
+{"question":"What is the difference between compilation and interpretation?","topic":"Software Questions","source":"Software Questions.csv","q_id":1}
+{"question":"What is an abstract class, and how is it different from an interface?","topic":"Software Questions","source":"Software Questions.csv","q_id":2}
+{"question":"What is the purpose of a constructor?","topic":"Software Questions","source":"Software Questions.csv","q_id":3}
+{"question":"Explain the difference between stack and heap memory.","topic":"Software Questions","source":"Software Questions.csv","q_id":4}
+{"question":"What is a design pattern, and can you name a few?","topic":"Software Questions","source":"Software Questions.csv","q_id":5}
+{"question":"What is the SOLID principle?","topic":"Software Questions","source":"Software Questions.csv","q_id":6}
+{"question":"What is the difference between an array and a linked list?","topic":"Software Questions","source":"Software Questions.csv","q_id":7}
+{"question":"Explain the time complexity of an algorithm.","topic":"Software Questions","source":"Software Questions.csv","q_id":8}
+{"question":"Describe the difference between a binary search tree and a hash table.","topic":"Software Questions","source":"Software Questions.csv","q_id":9}
+{"question":"What is a linked list and how does it work?","topic":"Software Questions","source":"Software Questions.csv","q_id":10}
+{"question":"Explain the concept of recursion.","topic":"Software Questions","source":"Software Questions.csv","q_id":11}
+{"question":"What is Big O notation, and why is it important?","topic":"Software Questions","source":"Software Questions.csv","q_id":12}
+{"question":"How do you perform a binary search on a sorted array?","topic":"Software Questions","source":"Software Questions.csv","q_id":13}
+{"question":"Discuss the advantages and disadvantages of different sorting algorithms.","topic":"Software Questions","source":"Software Questions.csv","q_id":14}
+{"question":"Explain how a hash table works.","topic":"Software Questions","source":"Software Questions.csv","q_id":15}
+{"question":"What is dynamic programming?","topic":"Software Questions","source":"Software Questions.csv","q_id":16}
+{"question":"What is the difference between Java and JavaScript?","topic":"Software Questions","source":"Software Questions.csv","q_id":17}
+{"question":"What is a RESTful API?","topic":"Software Questions","source":"Software Questions.csv","q_id":18}
+{"question":"Explain the use of \"this\" keyword in JavaScript.","topic":"Software Questions","source":"Software Questions.csv","q_id":19}
+{"question":"What is a closure in programming?","topic":"Software Questions","source":"Software Questions.csv","q_id":20}
+{"question":"What are the differences between Python 2 and Python 3?","topic":"Software Questions","source":"Software Questions.csv","q_id":21}
+{"question":"Explain the concept of multi-threading in Java.","topic":"Software Questions","source":"Software Questions.csv","q_id":22}
+{"question":"What is a Singleton pattern?","topic":"Software Questions","source":"Software Questions.csv","q_id":23}
+{"question":"What is a virtual function in C++?","topic":"Software Questions","source":"Software Questions.csv","q_id":24}
+{"question":"What is a database index, and why is it important?","topic":"Software Questions","source":"Software Questions.csv","q_id":25}
+{"question":"Explain the differences between SQL and NoSQL databases.","topic":"Software Questions","source":"Software Questions.csv","q_id":26}
+{"question":"What is a foreign key in a database?","topic":"Software Questions","source":"Software Questions.csv","q_id":27}
+{"question":"Describe the ACID properties in database transactions.","topic":"Software Questions","source":"Software Questions.csv","q_id":28}
+{"question":"How do you optimize a SQL query for better performance?","topic":"Software Questions","source":"Software Questions.csv","q_id":29}
+{"question":"What is normalization in database design?","topic":"Software Questions","source":"Software Questions.csv","q_id":30}
+{"question":"Explain the difference between INNER JOIN and LEFT JOIN in SQL.","topic":"Software Questions","source":"Software Questions.csv","q_id":31}
+{"question":"What is a stored procedure, and when would you use one?","topic":"Software Questions","source":"Software Questions.csv","q_id":32}
+{"question":"What is database denormalization, and when is it appropriate?","topic":"Software Questions","source":"Software Questions.csv","q_id":33}
+{"question":"What is the Document Object Model (DOM)?","topic":"Software Questions","source":"Software Questions.csv","q_id":34}
+{"question":"What is CORS (Cross-Origin Resource Sharing)?","topic":"Software Questions","source":"Software Questions.csv","q_id":35}
+{"question":"What is a cookie, and how does it work?","topic":"Software Questions","source":"Software Questions.csv","q_id":36}
+{"question":"What is a session in web development?","topic":"Software Questions","source":"Software Questions.csv","q_id":37}
+{"question":"What is the importance of SEO in web development?","topic":"Software Questions","source":"Software Questions.csv","q_id":38}
+{"question":"How does a web browser render a web page?","topic":"Software Questions","source":"Software Questions.csv","q_id":39}
+{"question":"What is unit testing, and why is it important?","topic":"Software Questions","source":"Software Questions.csv","q_id":40}
+{"question":"What is regression testing?","topic":"Software Questions","source":"Software Questions.csv","q_id":41}
+{"question":"What is continuous integration (CI) and continuous delivery (CD)?","topic":"Software Questions","source":"Software Questions.csv","q_id":42}
+{"question":"What is a test case and how do you write one?","topic":"Software Questions","source":"Software Questions.csv","q_id":43}
+{"question":"What is load testing, and why is it necessary?","topic":"Software Questions","source":"Software Questions.csv","q_id":44}
+{"question":"What is a bug tracking system?","topic":"Software Questions","source":"Software Questions.csv","q_id":45}
+{"question":"What is Git, and how does it work?","topic":"Software Questions","source":"Software Questions.csv","q_id":46}
+{"question":"What is a merge conflict, and how do you resolve it in Git?","topic":"Software Questions","source":"Software Questions.csv","q_id":47}
+{"question":"What is a pull request (PR), and how does it work?","topic":"Software Questions","source":"Software Questions.csv","q_id":48}
+{"question":"What is code refactoring, and why is it important?","topic":"Software Questions","source":"Software Questions.csv","q_id":49}
+{"question":"What is Git rebase, and when would you use it?","topic":"Software Questions","source":"Software Questions.csv","q_id":50}
+{"question":"Describe the concept of microservices architecture.","topic":"Software Questions","source":"Software Questions.csv","q_id":51}
+{"question":"What is a load balancer, and why is it used in web applications?","topic":"Software Questions","source":"Software Questions.csv","q_id":52}
+{"question":"What is a CDN (Content Delivery Network)?","topic":"Software Questions","source":"Software Questions.csv","q_id":53}
+{"question":"Discuss the pros and cons of monolithic vs. microservices architecture.","topic":"Software Questions","source":"Software Questions.csv","q_id":54}
+{"question":"What is a stateless vs. stateful service?","topic":"Software Questions","source":"Software Questions.csv","q_id":55}
+{"question":"Explain the concept of CAP theorem in distributed systems.","topic":"Software Questions","source":"Software Questions.csv","q_id":56}
+{"question":"How do you ensure data consistency in a distributed database?","topic":"Software Questions","source":"Software Questions.csv","q_id":57}
+{"question":"What is a message broker, and when would you use one?","topic":"Software Questions","source":"Software Questions.csv","q_id":58}
+{"question":"What is SQL injection, and how can it be prevented?","topic":"Software Questions","source":"Software Questions.csv","q_id":59}
+{"question":"What is two-factor authentication (2FA)?","topic":"Software Questions","source":"Software Questions.csv","q_id":60}
+{"question":"Describe the process of password hashing and salting.","topic":"Software Questions","source":"Software Questions.csv","q_id":61}
+{"question":"What is OAuth, and how does it work?","topic":"Software Questions","source":"Software Questions.csv","q_id":62}
+{"question":"How do you protect against session fixation attacks?","topic":"Software Questions","source":"Software Questions.csv","q_id":63}
+{"question":"What is a DDoS (Distributed Denial of Service) attack?","topic":"Software Questions","source":"Software Questions.csv","q_id":64}
+{"question":"How can you secure sensitive data in a mobile app?","topic":"Software Questions","source":"Software Questions.csv","q_id":65}
+{"question":"What is Docker, and how does it work?","topic":"Software Questions","source":"Software Questions.csv","q_id":66}
+{"question":"What is Kubernetes, and why is it popular in container management?","topic":"Software Questions","source":"Software Questions.csv","q_id":67}
+{"question":"Describe the process of continuous integration and continuous delivery (CI\/CD).","topic":"Software Questions","source":"Software Questions.csv","q_id":68}
+{"question":"What is infrastructure as code (IaC)?","topic":"Software Questions","source":"Software Questions.csv","q_id":69}
+{"question":"How do you monitor the performance of a web application?","topic":"Software Questions","source":"Software Questions.csv","q_id":70}
+{"question":"Discuss the importance of automated testing in CI\/CD pipelines.","topic":"Software Questions","source":"Software Questions.csv","q_id":71}
+{"question":"What is Blue-Green deployment, and when would you use it?","topic":"Software Questions","source":"Software Questions.csv","q_id":72}
+{"question":"Describe the benefits of using a cloud platform like AWS, Azure, or Google Cloud.","topic":"Software Questions","source":"Software Questions.csv","q_id":73}
+{"question":"Explain the concept of 'closure' in JavaScript.","topic":"Software Questions","source":"Software Questions.csv","q_id":74}
+{"question":"Describe the use of Docker in a DevOps environment.","topic":"Software Questions","source":"Software Questions.csv","q_id":75}
+{"question":"What is a 'race condition' in software development?","topic":"Software Questions","source":"Software Questions.csv","q_id":76}
+{"question":"How would you optimize a website's load time?","topic":"Software Questions","source":"Software Questions.csv","q_id":77}
+{"question":"What is the difference between SQL and NoSQL databases?","topic":"Software Questions","source":"Software Questions.csv","q_id":78}
+{"question":"Can you explain the concept of 'state' in React?","topic":"Software Questions","source":"Software Questions.csv","q_id":79}
+{"question":"What is continuous integration in DevOps?","topic":"Software Questions","source":"Software Questions.csv","q_id":80}
+{"question":"How do you implement a binary search algorithm?","topic":"Software Questions","source":"Software Questions.csv","q_id":81}
+{"question":"What are microservices and how do they differ from monolithic architectures?","topic":"Software Questions","source":"Software Questions.csv","q_id":82}
+{"question":"Explain the difference between '==' and '===' in JavaScript.","topic":"Software Questions","source":"Software Questions.csv","q_id":83}
+{"question":"What is Kubernetes and how does it relate to containerization?","topic":"Software Questions","source":"Software Questions.csv","q_id":84}
+{"question":"What are the benefits of server-side rendering vs client-side rendering?","topic":"Software Questions","source":"Software Questions.csv","q_id":85}
+{"question":"How do NoSQL databases handle data scaling compared to traditional SQL databases?","topic":"Software Questions","source":"Software Questions.csv","q_id":86}
+{"question":"What is Infrastructure as Code (IaC) and its significance in DevOps?","topic":"Software Questions","source":"Software Questions.csv","q_id":87}
+{"question":"What are the advantages of using a microservices architecture?","topic":"Software Questions","source":"Software Questions.csv","q_id":88}
+{"question":"What is lazy loading in web development?","topic":"Software Questions","source":"Software Questions.csv","q_id":89}
+{"question":"Discuss the role of a load balancer in a distributed system.","topic":"Software Questions","source":"Software Questions.csv","q_id":90}
+{"question":"How does indexing improve database query performance?","topic":"Software Questions","source":"Software Questions.csv","q_id":91}
+{"question":"Explain event delegation in JavaScript.","topic":"Software Questions","source":"Software Questions.csv","q_id":92}
+{"question":"Implement a function to check if a binary tree is balanced.","topic":"Software Questions","source":"Software Questions.csv","q_id":93}
+{"question":"Write an algorithm to find the median of a stream of numbers.","topic":"Software Questions","source":"Software Questions.csv","q_id":94}
+{"question":"Explain the Raft consensus algorithm.","topic":"Software Questions","source":"Software Questions.csv","q_id":95}
+{"question":"Design a scalable notification system for a social network.","topic":"Software Questions","source":"Software Questions.csv","q_id":96}
+{"question":"Design and implement a concurrent hash map.","topic":"Software Questions","source":"Software Questions.csv","q_id":97}
+{"question":"Implement Google's PageRank algorithm.","topic":"Software Questions","source":"Software Questions.csv","q_id":98}
+{"question":"Optimize database queries for a high-traffic website.","topic":"Software Questions","source":"Software Questions.csv","q_id":99}
+{"question":"Create a secure and scalable authentication system for a web application.","topic":"Software Questions","source":"Software Questions.csv","q_id":100}
+{"question":"Develop a machine learning model to predict stock prices.","topic":"Software Questions","source":"Software Questions.csv","q_id":101}
+{"question":"Write a custom memory allocator for a C++ application.","topic":"Software Questions","source":"Software Questions.csv","q_id":102}
+{"question":"Optimize a search algorithm for a large dataset in a distributed environment.","topic":"Software Questions","source":"Software Questions.csv","q_id":103}
+{"question":"Develop a deep learning model to analyze and interpret medical images.","topic":"Software Questions","source":"Software Questions.csv","q_id":104}
+{"question":"Design a fraud detection system for online transactions.","topic":"Software Questions","source":"Software Questions.csv","q_id":105}
+{"question":"Implement a distributed graph processing framework.","topic":"Software Questions","source":"Software Questions.csv","q_id":106}
+{"question":"Design and implement a large-scale distributed cache system.","topic":"Software Questions","source":"Software Questions.csv","q_id":107}
+{"question":"Develop an autonomous vehicle's path planning algorithm.","topic":"Software Questions","source":"Software Questions.csv","q_id":108}
+{"question":"Design a scalable and reliable messaging system for a large corporation.","topic":"Software Questions","source":"Software Questions.csv","q_id":109}
+{"question":"Implement a natural language processing algorithm to understand and answer user queries.","topic":"Software Questions","source":"Software Questions.csv","q_id":110}
+{"question":"Create an efficient algorithm for real-time anomaly detection in network traffic.","topic":"Software Questions","source":"Software Questions.csv","q_id":111}
+{"question":"Design a scalable infrastructure for an online advertising platform.","topic":"Software Questions","source":"Software Questions.csv","q_id":112}
+{"question":"Develop a machine learning algorithm to detect fake news on social media.","topic":"Software Questions","source":"Software Questions.csv","q_id":113}
+{"question":"Optimize an SQL database for a high-volume financial transaction system.","topic":"Software Questions","source":"Software Questions.csv","q_id":114}
+{"question":"Implement a quantum algorithm for solving a well-known computational problem.","topic":"Software Questions","source":"Software Questions.csv","q_id":115}
+{"question":"Build a scalable image processing pipeline for a photo-sharing app.","topic":"Software Questions","source":"Software Questions.csv","q_id":116}
+{"question":"What is supervised machine learning? 👶","topic":"dataset","source":"dataset.csv","q_id":117}
+{"question":"What is regression? Which models can you use to solve a regression problem? 👶","topic":"dataset","source":"dataset.csv","q_id":118}
+{"question":"What is linear regression? When do we use it? 👶","topic":"dataset","source":"dataset.csv","q_id":119}
+{"question":"What are the main assumptions of linear regression? ⭐","topic":"dataset","source":"dataset.csv","q_id":120}
+{"question":"What’s the normal distribution? Why do we care about it? 👶","topic":"dataset","source":"dataset.csv","q_id":121}
+{"question":"How do we check if a variable follows the normal distribution? ‍⭐️","topic":"dataset","source":"dataset.csv","q_id":122}
+{"question":"What if we want to build a model for predicting prices? Are prices distributed normally? Do we need to do any pre-processing for prices? ‍⭐️","topic":"dataset","source":"dataset.csv","q_id":123}
+{"question":"What methods for solving linear regression do you know? ‍⭐️","topic":"dataset","source":"dataset.csv","q_id":124}
+{"question":"What is gradient descent? How does it work? ‍⭐️","topic":"dataset","source":"dataset.csv","q_id":125}
+{"question":"What is the normal equation? ‍⭐️","topic":"dataset","source":"dataset.csv","q_id":126}
+{"question":"What is SGD  —  stochastic gradient descent? What’s the difference with the usual gradient descent? ‍⭐️","topic":"dataset","source":"dataset.csv","q_id":127}
+{"question":"Which metrics for evaluating regression models do you know? 👶","topic":"dataset","source":"dataset.csv","q_id":128}
+{"question":"What are MSE and RMSE? 👶","topic":"dataset","source":"dataset.csv","q_id":129}
+{"question":"What is the bias-variance trade-off? 👶","topic":"dataset","source":"dataset.csv","q_id":130}
+{"question":"What is overfitting? 👶","topic":"dataset","source":"dataset.csv","q_id":131}
+{"question":"How to validate your models? 👶","topic":"dataset","source":"dataset.csv","q_id":132}
+{"question":"Why do we need to split our data into three parts: train, validation, and test? 👶","topic":"dataset","source":"dataset.csv","q_id":133}
+{"question":"Can you explain how cross-validation works? 👶","topic":"dataset","source":"dataset.csv","q_id":134}
+{"question":"What is K-fold cross-validation? 👶","topic":"dataset","source":"dataset.csv","q_id":135}
+{"question":"How do we choose K in K-fold cross-validation? What’s your favorite K? 👶","topic":"dataset","source":"dataset.csv","q_id":136}
+{"question":"What is classification? Which models would you use to solve a classification problem? 👶","topic":"dataset","source":"dataset.csv","q_id":137}
+{"question":"What is logistic regression? When do we need to use it? 👶","topic":"dataset","source":"dataset.csv","q_id":138}
+{"question":"Is logistic regression a linear model? Why? 👶","topic":"dataset","source":"dataset.csv","q_id":139}
+{"question":"What is sigmoid? What does it do? 👶","topic":"dataset","source":"dataset.csv","q_id":140}
+{"question":"How do we evaluate classification models? 👶","topic":"dataset","source":"dataset.csv","q_id":141}
+{"question":"What is accuracy? 👶","topic":"dataset","source":"dataset.csv","q_id":142}
+{"question":"Is accuracy always a good metric? 👶","topic":"dataset","source":"dataset.csv","q_id":143}
+{"question":"What is the confusion table? What are the cells in this table? 👶","topic":"dataset","source":"dataset.csv","q_id":144}
+{"question":"What are precision, recall, and F1-score? 👶","topic":"dataset","source":"dataset.csv","q_id":145}
+{"question":"What is the ROC curve? When to use it? ‍⭐️","topic":"dataset","source":"dataset.csv","q_id":146}
+{"question":"What is AUC (AU ROC)? When to use it? ‍⭐️","topic":"dataset","source":"dataset.csv","q_id":147}
+{"question":"How to interpret the AU ROC score? ‍⭐️","topic":"dataset","source":"dataset.csv","q_id":148}
+{"question":"What is the PR (precision-recall) curve? ‍⭐️","topic":"dataset","source":"dataset.csv","q_id":149}
+{"question":"What is the area under the PR curve? Is it a useful metric? ‍⭐️I","topic":"dataset","source":"dataset.csv","q_id":150}
+{"question":"In which cases AU PR is better than AU ROC? ‍⭐️","topic":"dataset","source":"dataset.csv","q_id":151}
+{"question":"What do we do with categorical variables? ‍⭐️","topic":"dataset","source":"dataset.csv","q_id":152}
+{"question":"Why do we need one-hot encoding? ‍⭐️","topic":"dataset","source":"dataset.csv","q_id":153}
+{"question":"What is \"curse of dimensionality\"? ‍⭐️","topic":"dataset","source":"dataset.csv","q_id":154}
+{"question":"What happens to our linear regression model if we have three columns in our data: x, y, z  —  and z is a sum of x and y? ‍⭐️","topic":"dataset","source":"dataset.csv","q_id":155}
+{"question":"What happens to our linear regression model if the column z in the data is a sum of columns x and y and some random noise? ‍⭐️","topic":"dataset","source":"dataset.csv","q_id":156}
+{"question":"What is regularization? Why do we need it? 👶","topic":"dataset","source":"dataset.csv","q_id":157}
+{"question":"Which regularization techniques do you know? ‍⭐️","topic":"dataset","source":"dataset.csv","q_id":158}
+{"question":"What kind of regularization techniques are applicable to linear models? ‍⭐️","topic":"dataset","source":"dataset.csv","q_id":159}
+{"question":"How does L2 regularization look like in a linear model? ‍⭐️","topic":"dataset","source":"dataset.csv","q_id":160}
+{"question":"How do we select the right regularization parameters? 👶","topic":"dataset","source":"dataset.csv","q_id":161}
+{"question":"What’s the effect of L2 regularization on the weights of a linear model? ‍⭐️","topic":"dataset","source":"dataset.csv","q_id":162}
+{"question":"How L1 regularization looks like in a linear model? ‍⭐️","topic":"dataset","source":"dataset.csv","q_id":163}
+{"question":"What’s the difference between L2 and L1 regularization? ‍⭐️","topic":"dataset","source":"dataset.csv","q_id":164}
+{"question":"Can we have both L1 and L2 regularization components in a linear model? ‍⭐️","topic":"dataset","source":"dataset.csv","q_id":165}
+{"question":"What’s the interpretation of the bias term in linear models? ‍⭐️","topic":"dataset","source":"dataset.csv","q_id":166}
+{"question":"How do we interpret weights in linear models? ‍⭐️","topic":"dataset","source":"dataset.csv","q_id":167}
+{"question":"If a weight for one variable is higher than for another  —  can we say that this variable is more important? ‍⭐️","topic":"dataset","source":"dataset.csv","q_id":168}
+{"question":"When do we need to perform feature normalization for linear models? When it’s okay not to do it? ‍⭐️","topic":"dataset","source":"dataset.csv","q_id":169}
+{"question":"What is feature selection? Why do we need it? 👶","topic":"dataset","source":"dataset.csv","q_id":170}
+{"question":"Is feature selection important for linear models? ‍⭐️","topic":"dataset","source":"dataset.csv","q_id":171}
+{"question":"Which feature selection techniques do you know? ‍⭐️","topic":"dataset","source":"dataset.csv","q_id":172}
+{"question":"Can we use L1 regularization for feature selection? ‍⭐️","topic":"dataset","source":"dataset.csv","q_id":173}
+{"question":"Can we use L2 regularization for feature selection? ‍⭐️","topic":"dataset","source":"dataset.csv","q_id":174}
+{"question":"What are the decision trees? 👶","topic":"dataset","source":"dataset.csv","q_id":175}
+{"question":"How do we train decision trees? ‍⭐️","topic":"dataset","source":"dataset.csv","q_id":176}
+{"question":"What are the main parameters of the decision tree model? 👶","topic":"dataset","source":"dataset.csv","q_id":177}
+{"question":"How do we handle categorical variables in decision trees? ‍⭐️","topic":"dataset","source":"dataset.csv","q_id":178}
+{"question":"What are the benefits of a single decision tree compared to more complex models? ‍⭐️","topic":"dataset","source":"dataset.csv","q_id":179}
+{"question":"How can we know which features are more important for the decision tree model? ‍⭐️","topic":"dataset","source":"dataset.csv","q_id":180}
+{"question":"What is random forest? 👶","topic":"dataset","source":"dataset.csv","q_id":181}
+{"question":"Why do we need randomization in random forest? ‍⭐️","topic":"dataset","source":"dataset.csv","q_id":182}
+{"question":"What are the main parameters of the random forest model? ‍⭐️","topic":"dataset","source":"dataset.csv","q_id":183}
+{"question":"How do we select the depth of the trees in random forest? ‍⭐️","topic":"dataset","source":"dataset.csv","q_id":184}
+{"question":"How do we know how many trees we need in random forest? ‍⭐️","topic":"dataset","source":"dataset.csv","q_id":185}
+{"question":"Is it easy to parallelize training of a random forest model? How can we do it? ‍⭐️","topic":"dataset","source":"dataset.csv","q_id":186}
+{"question":"What are the potential problems with many large trees? ‍⭐️","topic":"dataset","source":"dataset.csv","q_id":187}
+{"question":"What if instead of finding the best split, we randomly select a few splits and just select the best from them. Will it work? 🚀","topic":"dataset","source":"dataset.csv","q_id":188}
+{"question":"What happens when we have correlated features in our data? ‍⭐️","topic":"dataset","source":"dataset.csv","q_id":189}
+{"question":"What is gradient boosting trees? ‍⭐️","topic":"dataset","source":"dataset.csv","q_id":190}
+{"question":"What’s the difference between random forest and gradient boosting? ‍⭐️","topic":"dataset","source":"dataset.csv","q_id":191}
+{"question":"Is it possible to parallelize training of a gradient boosting model? How to do it? ‍⭐️","topic":"dataset","source":"dataset.csv","q_id":192}
+{"question":"Feature importance in gradient boosting trees  —  what are possible options? ‍⭐️","topic":"dataset","source":"dataset.csv","q_id":193}
+{"question":"Are there any differences between continuous and discrete variables when it comes to feature importance of gradient boosting models? 🚀","topic":"dataset","source":"dataset.csv","q_id":194}
+{"question":"What are the main parameters in the gradient boosting model? ‍⭐️","topic":"dataset","source":"dataset.csv","q_id":195}
+{"question":"How do you approach tuning parameters in XGBoost or LightGBM? 🚀","topic":"dataset","source":"dataset.csv","q_id":196}
+{"question":"How do you select the number of trees in the gradient boosting model? ‍⭐️","topic":"dataset","source":"dataset.csv","q_id":197}
+{"question":"Which hyper-parameter tuning strategies (in general) do you know? ‍⭐️","topic":"dataset","source":"dataset.csv","q_id":198}
+{"question":"What’s the difference between grid search parameter tuning strategy and random search? When to use one or another? ‍⭐️","topic":"dataset","source":"dataset.csv","q_id":199}
+{"question":"What kind of problems neural nets can solve? 👶","topic":"dataset","source":"dataset.csv","q_id":200}
+{"question":"How does a usual fully-connected feed-forward neural network work? ‍⭐️","topic":"dataset","source":"dataset.csv","q_id":201}
+{"question":"Why do we need activation functions? 👶","topic":"dataset","source":"dataset.csv","q_id":202}
+{"question":"What are the problems with sigmoid as an activation function? ‍⭐️","topic":"dataset","source":"dataset.csv","q_id":203}
+{"question":"What is ReLU? How is it better than sigmoid or tanh? ‍⭐️","topic":"dataset","source":"dataset.csv","q_id":204}
+{"question":"How we can initialize the weights of a neural network? ‍⭐️","topic":"dataset","source":"dataset.csv","q_id":205}
+{"question":"What if we set all the weights of a neural network to 0? ‍⭐️","topic":"dataset","source":"dataset.csv","q_id":206}
+{"question":"What regularization techniques for neural nets do you know? ‍⭐️","topic":"dataset","source":"dataset.csv","q_id":207}
+{"question":"What is dropout? Why is it useful? How does it work? ‍⭐️","topic":"dataset","source":"dataset.csv","q_id":208}
+{"question":"What is backpropagation? How does it work? Why do we need it? ‍⭐️","topic":"dataset","source":"dataset.csv","q_id":209}
+{"question":"Which optimization techniques for training neural nets do you know? ‍⭐️","topic":"dataset","source":"dataset.csv","q_id":210}
+{"question":"How do we use SGD (stochastic gradient descent) for training a neural net? ‍⭐️","topic":"dataset","source":"dataset.csv","q_id":211}
+{"question":"What’s the learning rate? 👶","topic":"dataset","source":"dataset.csv","q_id":212}
+{"question":"What happens when the learning rate is too large? Too small? 👶","topic":"dataset","source":"dataset.csv","q_id":213}
+{"question":"How to set the learning rate? ‍⭐️","topic":"dataset","source":"dataset.csv","q_id":214}
+{"question":"What is Adam? What’s the main difference between Adam and SGD? ‍⭐️","topic":"dataset","source":"dataset.csv","q_id":215}
+{"question":"When would you use Adam and when SGD? ‍⭐️","topic":"dataset","source":"dataset.csv","q_id":216}
+{"question":"Do we want to have a constant learning rate or we better change it throughout training? ‍⭐️","topic":"dataset","source":"dataset.csv","q_id":217}
+{"question":"How do we decide when to stop training a neural net? 👶","topic":"dataset","source":"dataset.csv","q_id":218}
+{"question":"What is model checkpointing? ‍⭐️","topic":"dataset","source":"dataset.csv","q_id":219}
+{"question":"Can you tell us how you approach the model training process? ‍⭐️","topic":"dataset","source":"dataset.csv","q_id":220}
+{"question":"How we can use neural nets for computer vision? ‍⭐️","topic":"dataset","source":"dataset.csv","q_id":221}
+{"question":"What’s a convolutional layer? ‍⭐️","topic":"dataset","source":"dataset.csv","q_id":222}
+{"question":"Why do we actually need convolutions? Can’t we use fully-connected layers for that? ‍⭐️","topic":"dataset","source":"dataset.csv","q_id":223}
+{"question":"What’s pooling in CNN? Why do we need it? ‍⭐️","topic":"dataset","source":"dataset.csv","q_id":224}
+{"question":"How does max pooling work? Are there other pooling techniques? ‍⭐️","topic":"dataset","source":"dataset.csv","q_id":225}
+{"question":"Are CNNs resistant to rotations? What happens to the predictions of a CNN if an image is rotated? 🚀","topic":"dataset","source":"dataset.csv","q_id":226}
+{"question":"What are augmentations? Why do we need them? 👶","topic":"dataset","source":"dataset.csv","q_id":227}
+{"question":"What kind of augmentations do you know? 👶","topic":"dataset","source":"dataset.csv","q_id":228}
+{"question":"How to choose which augmentations to use? ‍⭐️","topic":"dataset","source":"dataset.csv","q_id":229}
+{"question":"What kind of CNN architectures for classification do you know? 🚀","topic":"dataset","source":"dataset.csv","q_id":230}
+{"question":"What is transfer learning? How does it work? ‍⭐️","topic":"dataset","source":"dataset.csv","q_id":231}
+{"question":"What is object detection? Do you know any architectures for that? 🚀","topic":"dataset","source":"dataset.csv","q_id":232}
+{"question":"What is object segmentation? Do you know any architectures for that? 🚀","topic":"dataset","source":"dataset.csv","q_id":233}
+{"question":"How can we use machine learning for text classification? ‍⭐️","topic":"dataset","source":"dataset.csv","q_id":234}
+{"question":"What is bag of words? How we can use it for text classification? ‍⭐️","topic":"dataset","source":"dataset.csv","q_id":235}
+{"question":"What are the advantages and disadvantages of bag of words? ‍⭐️","topic":"dataset","source":"dataset.csv","q_id":236}
+{"question":"What are N-grams? How can we use them? ‍⭐️","topic":"dataset","source":"dataset.csv","q_id":237}
+{"question":"How large should be N for our bag of words when using N-grams? ‍⭐️","topic":"dataset","source":"dataset.csv","q_id":238}
+{"question":"What is TF-IDF? How is it useful for text classification? ‍⭐️","topic":"dataset","source":"dataset.csv","q_id":239}
+{"question":"Which model would you use for text classification with bag of words features? ‍⭐️","topic":"dataset","source":"dataset.csv","q_id":240}
+{"question":"Would you prefer gradient boosting trees model or logistic regression when doing text classification with bag of words? ‍⭐️","topic":"dataset","source":"dataset.csv","q_id":241}
+{"question":"What are word embeddings? Why are they useful? Do you know Word2Vec? ‍⭐️","topic":"dataset","source":"dataset.csv","q_id":242}
+{"question":"Do you know any other ways to get word embeddings? 🚀","topic":"dataset","source":"dataset.csv","q_id":243}
+{"question":"If you have a sentence with multiple words, you may need to combine multiple word embeddings into one. How would you do it? ‍⭐️","topic":"dataset","source":"dataset.csv","q_id":244}
+{"question":"Would you prefer gradient boosting trees model or logistic regression when doing text classification with embeddings? ‍⭐️","topic":"dataset","source":"dataset.csv","q_id":245}
+{"question":"How can you use neural nets for text classification? 🚀","topic":"dataset","source":"dataset.csv","q_id":246}
+{"question":"How can we use CNN for text classification? 🚀","topic":"dataset","source":"dataset.csv","q_id":247}
+{"question":"What is unsupervised learning? 👶","topic":"dataset","source":"dataset.csv","q_id":248}
+{"question":"What is clustering? When do we need it? 👶","topic":"dataset","source":"dataset.csv","q_id":249}
+{"question":"Do you know how K-means works? ‍⭐️","topic":"dataset","source":"dataset.csv","q_id":250}
+{"question":"How to select K for K-means? ‍⭐️","topic":"dataset","source":"dataset.csv","q_id":251}
+{"question":"What are the other clustering algorithms do you know? ‍⭐️","topic":"dataset","source":"dataset.csv","q_id":252}
+{"question":"Do you know how DBScan works? ‍⭐️","topic":"dataset","source":"dataset.csv","q_id":253}
+{"question":"When would you choose K-means and when DBScan? ‍⭐️","topic":"dataset","source":"dataset.csv","q_id":254}
+{"question":"What is the curse of dimensionality? Why do we care about it? ‍⭐️","topic":"dataset","source":"dataset.csv","q_id":255}
+{"question":"Do you know any dimensionality reduction techniques? ‍⭐️","topic":"dataset","source":"dataset.csv","q_id":256}
+{"question":"What’s singular value decomposition? How is it typically used for machine learning? ‍⭐️","topic":"dataset","source":"dataset.csv","q_id":257}
+{"question":"What is the ranking problem? Which models can you use to solve them? ‍⭐️","topic":"dataset","source":"dataset.csv","q_id":258}
+{"question":"What are good unsupervised baselines for text information retrieval? ‍⭐️","topic":"dataset","source":"dataset.csv","q_id":259}
+{"question":"How would you evaluate your ranking algorithms? Which offline metrics would you use? ‍⭐️","topic":"dataset","source":"dataset.csv","q_id":260}
+{"question":"What is precision and recall at k? ‍⭐️","topic":"dataset","source":"dataset.csv","q_id":261}
+{"question":"What is mean average precision at k? ‍⭐️","topic":"dataset","source":"dataset.csv","q_id":262}
+{"question":"How can we use machine learning for search? ‍⭐️","topic":"dataset","source":"dataset.csv","q_id":263}
+{"question":"How can we get training data for our ranking algorithms? ‍⭐️","topic":"dataset","source":"dataset.csv","q_id":264}
+{"question":"Can we formulate the search problem as a classification problem? How? ‍⭐️","topic":"dataset","source":"dataset.csv","q_id":265}
+{"question":"How can we use clicks data as the training data for ranking algorithms? 🚀","topic":"dataset","source":"dataset.csv","q_id":266}
+{"question":"Do you know how to use gradient boosting trees for ranking? 🚀","topic":"dataset","source":"dataset.csv","q_id":267}
+{"question":"How do you do an online evaluation of a new ranking algorithm? ‍⭐️","topic":"dataset","source":"dataset.csv","q_id":268}
+{"question":"What is a recommender system? 👶","topic":"dataset","source":"dataset.csv","q_id":269}
+{"question":"What are good baselines when building a recommender system? ‍⭐️","topic":"dataset","source":"dataset.csv","q_id":270}
+{"question":"What is collaborative filtering? ‍⭐️","topic":"dataset","source":"dataset.csv","q_id":271}
+{"question":"How we can incorporate implicit feedback (clicks, etc) into our recommender systems? ‍⭐️","topic":"dataset","source":"dataset.csv","q_id":272}
+{"question":"What is the cold start problem? ‍⭐️","topic":"dataset","source":"dataset.csv","q_id":273}
+{"question":"Possible approaches to solving the cold start problem? ‍⭐️🚀","topic":"dataset","source":"dataset.csv","q_id":274}
+{"question":"What is a time series? 👶","topic":"dataset","source":"dataset.csv","q_id":275}
+{"question":"How is time series different from the usual regression problem? 👶","topic":"dataset","source":"dataset.csv","q_id":276}
+{"question":"Which models do you know for solving time series problems? ‍⭐️","topic":"dataset","source":"dataset.csv","q_id":277}
+{"question":"If there’s a trend in our series, how we can remove it? And why would we want to do it? ‍⭐️","topic":"dataset","source":"dataset.csv","q_id":278}
+{"question":"You have a series with only one variable “y” measured at time t. How do predict “y” at time t+1? Which approaches would you use? ‍⭐️","topic":"dataset","source":"dataset.csv","q_id":279}
+{"question":"You have a series with a variable “y” and a set of features. How do you predict “y” at t+1? Which approaches would you use? ‍⭐️","topic":"dataset","source":"dataset.csv","q_id":280}
+{"question":"What are the problems with using trees for solving time series problems? ‍⭐️","topic":"dataset","source":"dataset.csv","q_id":281}

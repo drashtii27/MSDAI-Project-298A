@@ -1,0 +1,41 @@
+{"question":"What is supervised machine learning? \ud83d\udc76","source":"dataset.csv","topic":"technical"}
+{"question":"What is regression? Which models can you use to solve a regression problem? \ud83d\udc76","source":"dataset.csv","topic":"technical"}
+{"question":"What is linear regression? When do we use it? \ud83d\udc76","source":"dataset.csv","topic":"technical"}
+{"question":"What are the main assumptions of linear regression? \u2b50","source":"dataset.csv","topic":"technical"}
+{"question":"What methods for solving linear regression do you know? \u200d\u2b50\ufe0f","source":"dataset.csv","topic":"technical"}
+{"question":"Which metrics for evaluating regression models do you know? \ud83d\udc76","source":"dataset.csv","topic":"technical"}
+{"question":"What is overfitting? \ud83d\udc76","source":"dataset.csv","topic":"technical"}
+{"question":"What is classification? Which models would you use to solve a classification problem? \ud83d\udc76","source":"dataset.csv","topic":"technical"}
+{"question":"What is logistic regression? When do we need to use it? \ud83d\udc76","source":"dataset.csv","topic":"technical"}
+{"question":"Is logistic regression a linear model? Why? \ud83d\udc76","source":"dataset.csv","topic":"technical"}
+{"question":"How do we evaluate classification models? \ud83d\udc76","source":"dataset.csv","topic":"technical"}
+{"question":"What happens to our linear regression model if we have three columns in our data: x, y, z \u200a\u2014\u200a and z is a sum of x and y? \u200d\u2b50\ufe0f","source":"dataset.csv","topic":"technical"}
+{"question":"What happens to our linear regression model if the column z in the data is a sum of columns x and y and some random noise? \u200d\u2b50\ufe0f","source":"dataset.csv","topic":"technical"}
+{"question":"When do we need to perform feature normalization for linear models? When it\u2019s okay not to do it? \u200d\u2b50\ufe0f","source":"dataset.csv","topic":"technical"}
+{"question":"What are the decision trees? \ud83d\udc76","source":"dataset.csv","topic":"technical"}
+{"question":"How do we train decision trees? \u200d\u2b50\ufe0f","source":"dataset.csv","topic":"technical"}
+{"question":"What are the main parameters of the decision tree model? \ud83d\udc76","source":"dataset.csv","topic":"technical"}
+{"question":"How do we handle categorical variables in decision trees? \u200d\u2b50\ufe0f","source":"dataset.csv","topic":"technical"}
+{"question":"What are the benefits of a single decision tree compared to more complex models? \u200d\u2b50\ufe0f","source":"dataset.csv","topic":"technical"}
+{"question":"How can we know which features are more important for the decision tree model? \u200d\u2b50\ufe0f","source":"dataset.csv","topic":"technical"}
+{"question":"How do we select the depth of the trees in random forest? \u200d\u2b50\ufe0f","source":"dataset.csv","topic":"technical"}
+{"question":"How do we know how many trees we need in random forest? \u200d\u2b50\ufe0f","source":"dataset.csv","topic":"technical"}
+{"question":"What are the potential problems with many large trees? \u200d\u2b50\ufe0f","source":"dataset.csv","topic":"technical"}
+{"question":"What is gradient boosting trees? \u200d\u2b50\ufe0f","source":"dataset.csv","topic":"technical"}
+{"question":"Feature importance in gradient boosting trees \u200a\u2014\u200a what are possible options? \u200d\u2b50\ufe0f","source":"dataset.csv","topic":"technical"}
+{"question":"How do you select the number of trees in the gradient boosting model? \u200d\u2b50\ufe0f","source":"dataset.csv","topic":"technical"}
+{"question":"What kind of CNN architectures for classification do you know? \ud83d\ude80","source":"dataset.csv","topic":"technical"}
+{"question":"How can we use machine learning for text classification? \u200d\u2b50\ufe0f","source":"dataset.csv","topic":"technical"}
+{"question":"What is bag of words? How we can use it for text classification? \u200d\u2b50\ufe0f","source":"dataset.csv","topic":"technical"}
+{"question":"What is TF-IDF? How is it useful for text classification? \u200d\u2b50\ufe0f","source":"dataset.csv","topic":"technical"}
+{"question":"Which model would you use for text classification with bag of words features? \u200d\u2b50\ufe0f","source":"dataset.csv","topic":"technical"}
+{"question":"Would you prefer gradient boosting trees model or logistic regression when doing text classification with bag of words? \u200d\u2b50\ufe0f","source":"dataset.csv","topic":"technical"}
+{"question":"Would you prefer gradient boosting trees model or logistic regression when doing text classification with embeddings? \u200d\u2b50\ufe0f","source":"dataset.csv","topic":"technical"}
+{"question":"How can you use neural nets for text classification? \ud83d\ude80","source":"dataset.csv","topic":"technical"}
+{"question":"How can we use CNN for text classification? \ud83d\ude80","source":"dataset.csv","topic":"technical"}
+{"question":"What\u2019s singular value decomposition? How is it typically used for machine learning? \u200d\u2b50\ufe0f","source":"dataset.csv","topic":"technical"}
+{"question":"How can we use machine learning for search? \u200d\u2b50\ufe0f","source":"dataset.csv","topic":"technical"}
+{"question":"Can we formulate the search problem as a classification problem? How? \u200d\u2b50\ufe0f","source":"dataset.csv","topic":"technical"}
+{"question":"Do you know how to use gradient boosting trees for ranking? \ud83d\ude80","source":"dataset.csv","topic":"technical"}
+{"question":"How is time series different from the usual regression problem? \ud83d\udc76","source":"dataset.csv","topic":"technical"}
+{"question":"What are the problems with using trees for solving time series problems? \u200d\u2b50\ufe0f","source":"dataset.csv","topic":"technical"}
